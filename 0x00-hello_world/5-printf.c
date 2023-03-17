@@ -1,8 +1,7 @@
 #include <stdio.h>
 
 /**
- * main - print zhat i just write
- *
+ * main - the main function
  * return: always 0
  */
 
